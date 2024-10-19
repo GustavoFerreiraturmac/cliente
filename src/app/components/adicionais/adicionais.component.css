@@ -9,15 +9,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
     min-height: 100vh;
     padding: 20px;
 }
 
 .container {
     width: 100%;
-    max-width: max-content; 
+    max-width: auto;
     padding: 20px;
+    margin: 0 auto;
 }
 
 header {
