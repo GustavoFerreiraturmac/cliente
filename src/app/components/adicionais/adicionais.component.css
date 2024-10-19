@@ -34,9 +34,10 @@ header button.voltar {
 }
 
 header h1 {
-    flex: 1;
+    font-size: 28px;
+    margin-bottom: 10px;
     text-align: center;
-    font-size: 24px;
+    margin: auto;
     font-weight: bold;
 }
 
