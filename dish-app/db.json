@@ -1,0 +1,40 @@
+{
+    "dishes": [
+      {
+        "name": "Espaguete à Carbonara",
+        "description": "Um clássico italiano feito com ovos, queijo, pancetta e pimenta preta.",
+        "image": "https://example.com/images/espaguete-carbonara.jpg",
+        "price": 25.00,
+        "ingredients": ["espaguete", "ovos", "queijo pecorino", "pancetta", "pimenta preta"]
+      },
+      {
+        "name": "Sushi de Salmão",
+        "description": "Deliciosos rolinhos de arroz com salmão fresco e alga nori.",
+        "image": "https://example.com/images/sushi-salmão.jpg",
+        "price": 40.00,
+        "ingredients": ["arroz de sushi", "salmão", "alga nori", "wasabi", "molho de soja"]
+      },
+      {
+        "name": "Tacos de Carnitas",
+        "description": "Tacos recheados com carne de porco desfiada, guacamole e salsa.",
+        "image": "https://example.com/images/tacos-carnitas.jpg",
+        "price": 20.00,
+        "ingredients": ["tortilhas", "carne de porco", "guacamole", "salsa", "cebola"]
+      },
+      {
+        "name": "Pizza Margherita",
+        "description": "Uma pizza tradicional com molho de tomate, mozzarella e manjericão fresco.",
+        "image": "https://example.com/images/pizza-margherita.jpg",
+        "price": 30.00,
+        "ingredients": ["massa de pizza", "molho de tomate", "queijo mozzarella", "manjericão", "azeite"]
+      },
+      {
+        "name": "Chili con Carne",
+        "description": "Um prato apimentado de carne moída com feijão e especiarias.",
+        "image": "https://example.com/images/chili-con-carne.jpg",
+        "price": 28.00,
+        "ingredients": ["carne moída", "feijão", "tomate", "cebola", "pimenta"]
+      }
+    ]
+  }
+  
